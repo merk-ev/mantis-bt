@@ -1,6 +1,6 @@
 # compare contact
 import re
-from training.model.contact import Contact
+from model.contact import Contact
 
 # def test_compare_contact_on_home_page(app):
 #    contact_from_home_page = app.contact.get_contact_list()[0]

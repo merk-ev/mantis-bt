@@ -1,6 +1,6 @@
 import pymysql.cursors
-from training.model.group import Group
-from training.model.contact import Contact
+from model.group import Group
+from model.contact import Contact
 
 class DbFixture:
 

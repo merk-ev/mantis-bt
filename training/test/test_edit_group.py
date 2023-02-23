@@ -1,6 +1,6 @@
 # test edit group
 # -*- coding: utf-8 -*-
-from training.model.group import Group
+from model.group import Group
 from random import randrange
 
 

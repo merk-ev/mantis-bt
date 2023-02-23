@@ -1,5 +1,5 @@
 # test delete first group in list
-from training.model.group import Group
+from model.group import Group
 import random
 
 

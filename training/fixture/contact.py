@@ -1,6 +1,6 @@
 # Helper for contacts
 
-from training.model.contact import Contact
+from model.contact import Contact
 import re
 
 

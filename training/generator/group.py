@@ -1,4 +1,4 @@
-from training.model.group import Group
+from model.group import Group
 import random
 import string
 import jsonpickle

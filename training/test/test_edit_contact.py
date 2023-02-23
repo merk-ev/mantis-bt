@@ -1,6 +1,6 @@
 # test edit contact
 # -*- coding: utf-8 -*-
-from training.model.contact import Contact
+from model.contact import Contact
 from random import randrange
 
 

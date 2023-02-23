@@ -1,5 +1,5 @@
 # test delete first contact in list
-from training.model.contact import Contact
+from model.contact import Contact
 import random
 
 

@@ -1,4 +1,4 @@
-from training.model.group import Group
+from model.group import Group
 
 
 def test_group_list(app, db):

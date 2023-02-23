@@ -1,6 +1,6 @@
 # test adding contact
 # -*- coding: utf-8 -*-
-from training.model.contact import Contact
+from model.contact import Contact
 
 
 def test_add_contact(app, db, json_contact, check_ui):

@@ -1,6 +1,6 @@
 # Helper for group
 
-from training.model.group import Group
+from model.group import Group
 
 class GroupHelper:
 
